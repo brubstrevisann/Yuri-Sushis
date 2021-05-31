@@ -127,7 +127,7 @@ input, select{
 
 @font-face {
     font-family: "Overlock SC";
-    src: local("assets/fonts/OverlockSC-Regular.ttf"),
+    src: local("OverlockSC-Regular.ttf"),
     local("OverlockSC-Regular.ttf"),
     url(OverlockSC-Regular.ttf);
   }
