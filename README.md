@@ -5,4 +5,4 @@
 Projeto feito em HTML/CSS puro com bootstrap 4 para um site de rodízio japonês.
 
 
-Protótipo: https://xd.adobe.com/view/04aed9ca-7eca-41e8-b1d1-f67c59d678c7-51fd/ 
+Protótipo: https://xd.adobe.com/view/04aed9ca-7eca-41e8-b1d1-f67c59d678c7-51fd/  
